@@ -1,11 +1,3 @@
-// import esbuild from 'esbuild'
-// import path from 'path'
-// import glob from 'glob'
-// import chalk from 'chalk'
-// const isProd = process.env.NODE_ENV == 'production'
-// const libPath = path.join(process.cwd(), 'lib')
-// import { existsSync, emptyDirSync } from "fs-extra";
-
 const esbuild = require('esbuild')
 const path = require('path')
 const glob = require('glob')

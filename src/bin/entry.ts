@@ -9,3 +9,5 @@ program
   .action((name: string, options: any) => {
     create()
   })
+  console.log('asdasd');
+  
